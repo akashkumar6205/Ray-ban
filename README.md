@@ -34,8 +34,8 @@ Responsive design
 
 🔗 Live Demo
 
-👉 Live URL: Coming Soon
-👉 GitHub Pages: Add link here
+👉 Live URL: 
+👉 GitHub Pages:
 
 📂 Project Structure
 ├── index.html
